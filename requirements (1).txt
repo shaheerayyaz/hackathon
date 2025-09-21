@@ -1,0 +1,7 @@
+gradio
+easyocr
+pdf2image
+sympy
+pymupdf
+rapidfuzz
+opencv-python-headless
